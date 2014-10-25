@@ -1,0 +1,17 @@
+﻿<cmp 
+	name = "网站广告联系QQ：122475170" 
+	link_target = "_blank"
+	link = "http://www.lhkjw.com/" 
+	skins = "mv.swf"
+	lists = ""
+	logo = "logo.png"
+	video_image = "gg.jpg"
+	plugins = "merge.swf"
+	default_type="merge"
+	src_handler = "" 
+	lrc_handler = ""
+	skin_id = "1"
+	play_id = "1"
+	auto_play = "0"
+	list_delete = ""
+/>
