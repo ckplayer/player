@@ -2,7 +2,7 @@
 <ckplayer><style>
 	<cpath></cpath>
 	<language></language>
-	<flashvars>{b->1}{p->1}</flashvars>
+	<flashvars>{b->1}{p->1}{h->1}</flashvars>
 	<setup>1,1,1,1,1,2,0,1,2,0,0,1,200,0,2,1,0,1,1,1,0,10,3,0,1,2,3000,0,0,0,0,1,1,1,1,1,1,250,0,90</setup>
 	<pm_bg>0x000000,100,230,180</pm_bg>
 	<mylogo>logo.swf</mylogo>
